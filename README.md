@@ -1,6 +1,8 @@
 <h1>Game Hub</h1>
 <h3>React - Typescript project</h3>
+
 ![Game Hub preview image](/src/assets/Game-Hub.jpg "game hub image")
+
 <hr>
 <p>After learning Typescript I wanted to get my hands dirty. With the help of a course made by Mosh Hamadani I built this game library.</p>
 <p>I use rawg.io api to fetch the data.</p>
